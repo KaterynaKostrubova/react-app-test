@@ -13,6 +13,7 @@ class MoviesPagination extends React.Component {
             }
         };
 
+
         const handlePrev = (value) => {
             if(value > 1){
                 return(event) => {
