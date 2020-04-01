@@ -1,4 +1,4 @@
-<img src="public/logo.jpg" width="200" />
+<img src="public/logo512.png" width="200" />
 
 ## Movies API
 
